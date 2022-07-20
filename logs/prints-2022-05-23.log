@@ -1,0 +1,7 @@
+15:22:51.807 [main] INFO  resources.Base - Navigated to the Home Page
+15:22:51.865 [main] INFO  resources.Base - Successfully validated the text message
+15:36:24.234 [TestNG-tests-3] INFO  resources.Base - Driver is Initialized
+15:36:34.354 [TestNG-tests-3] INFO  resources.Base - Navigated to the Home Page
+15:36:34.423 [TestNG-tests-3] INFO  resources.Base - Successfully validated the text message
+15:36:44.920 [TestNG-tests-2] INFO  resources.Base - Invalid Credentials
+15:36:45.147 [TestNG-tests-2] INFO  resources.Base - Invalid Credentials

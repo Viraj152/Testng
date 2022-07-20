@@ -1,0 +1,4 @@
+14:22:56.091 [TestNG-tests-2] INFO  resources.Base - Successfully validated the text message
+14:23:02.939 [TestNG-tests-3] INFO  resources.Base - Navigation Bar is Displayed
+14:23:23.343 [TestNG-tests-1] INFO  resources.Base - Invalid Credentials
+14:23:29.538 [TestNG-tests-1] INFO  resources.Base - Invalid Credentials

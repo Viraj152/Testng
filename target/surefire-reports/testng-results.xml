@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-16T21:22:35Z" name="Suite" finished-at="2022-07-16T21:23:35Z" duration-ms="60618">
+    <groups>
+    </groups>
+    <test started-at="2022-07-16T21:22:35Z" name="Validating Page Title" finished-at="2022-07-16T21:23:00Z" duration-ms="24948">
+      <class name="Academy.ValidateTitle">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.ValidateTitle@5f78de22]" started-at="2022-07-16T21:22:35Z" name="initialize" finished-at="2022-07-16T21:22:56Z" duration-ms="20693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="asserttxt()[pri:0, instance:Academy.ValidateTitle@5f78de22]" started-at="2022-07-16T21:22:56Z" name="asserttxt" finished-at="2022-07-16T21:22:56Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asserttxt -->
+        <test-method signature="validateHeader()[pri:0, instance:Academy.ValidateTitle@5f78de22]" started-at="2022-07-16T21:22:56Z" name="validateHeader" finished-at="2022-07-16T21:22:56Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeader -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Academy.ValidateTitle@5f78de22]" started-at="2022-07-16T21:22:56Z" name="close" finished-at="2022-07-16T21:23:00Z" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Academy.ValidateTitle -->
+    </test> <!-- Validating Page Title -->
+    <test started-at="2022-07-16T21:22:35Z" name="Validating Navigation Bar" finished-at="2022-07-16T21:23:02Z" duration-ms="27662">
+      <class name="Academy.ValidateNavigation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.ValidateNavigation@bcb09a6]" started-at="2022-07-16T21:22:35Z" name="initialize" finished-at="2022-07-16T21:23:02Z" duration-ms="27579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="asserttxt()[pri:0, instance:Academy.ValidateNavigation@bcb09a6]" started-at="2022-07-16T21:23:02Z" name="asserttxt" finished-at="2022-07-16T21:23:02Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asserttxt -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Academy.ValidateNavigation@bcb09a6]" started-at="2022-07-16T21:23:02Z" name="close" finished-at="2022-07-16T21:23:02Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Academy.ValidateNavigation -->
+    </test> <!-- Validating Navigation Bar -->
+    <test started-at="2022-07-16T21:22:35Z" name="Validating User Login" finished-at="2022-07-16T21:23:35Z" duration-ms="60618">
+      <class name="Academy.Homepage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.Homepage@69c6161d]" started-at="2022-07-16T21:22:35Z" name="initialize" finished-at="2022-07-16T21:23:17Z" duration-ms="41839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basepagenavigate(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.Homepage@69c6161d]" started-at="2022-07-16T21:23:17Z" name="basepagenavigate" data-provider="getData" finished-at="2022-07-16T21:23:23Z" duration-ms="6227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vervfh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basepagenavigate -->
+        <test-method signature="basepagenavigate(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.Homepage@69c6161d]" started-at="2022-07-16T21:23:23Z" name="basepagenavigate" data-provider="getData" finished-at="2022-07-16T21:23:29Z" duration-ms="6185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jhfk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[92836]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basepagenavigate -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Academy.Homepage@69c6161d]" started-at="2022-07-16T21:23:29Z" name="close" finished-at="2022-07-16T21:23:35Z" duration-ms="6363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Academy.Homepage -->
+    </test> <!-- Validating User Login -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+12:34:03.588 [TestNG-tests-2] INFO  resources.Base - Navigated to the Home Page
+12:34:03.579 [TestNG-tests-3] INFO  resources.Base - Navigation Bar is Displayed
+12:34:03.619 [TestNG-tests-2] INFO  resources.Base - Successfully validated the text message
+12:34:08.194 [TestNG-tests-1] INFO  resources.Base - Invalid Credentials
+12:34:14.537 [TestNG-tests-1] INFO  resources.Base - Invalid Credentials
+12:42:40.485 [TestNG-tests-2] INFO  resources.Base - Driver is Initialized
+12:42:59.017 [TestNG-tests-2] INFO  resources.Base - Navigated to the Home Page
